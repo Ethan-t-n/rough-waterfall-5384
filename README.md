@@ -1,4 +1,4 @@
-#Did one commit in the beginning, then decided to add them all individually at the end
+# Did one commit in the beginning, then decided to add them all individually at the end
 
 # Supermarket Sweep
 
